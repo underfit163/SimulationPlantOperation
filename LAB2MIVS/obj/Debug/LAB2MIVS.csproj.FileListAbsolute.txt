@@ -1,0 +1,30 @@
+C:\Users\gurin\source\repos\LAB2MIVS\LAB2MIVS\bin\Debug\LAB2MIVS.exe.config
+C:\Users\gurin\source\repos\LAB2MIVS\LAB2MIVS\bin\Debug\LAB2MIVS.exe
+C:\Users\gurin\source\repos\LAB2MIVS\LAB2MIVS\bin\Debug\LAB2MIVS.pdb
+C:\Users\gurin\source\repos\LAB2MIVS\LAB2MIVS\obj\Debug\LAB2MIVS.csprojAssemblyReference.cache
+C:\Users\gurin\source\repos\LAB2MIVS\LAB2MIVS\obj\Debug\LAB2MIVS.Form1.resources
+C:\Users\gurin\source\repos\LAB2MIVS\LAB2MIVS\obj\Debug\LAB2MIVS.Properties.Resources.resources
+C:\Users\gurin\source\repos\LAB2MIVS\LAB2MIVS\obj\Debug\LAB2MIVS.csproj.GenerateResource.cache
+C:\Users\gurin\source\repos\LAB2MIVS\LAB2MIVS\obj\Debug\LAB2MIVS.csproj.CoreCompileInputs.cache
+C:\Users\gurin\source\repos\LAB2MIVS\LAB2MIVS\obj\Debug\LAB2MIVS.exe
+C:\Users\gurin\source\repos\LAB2MIVS\LAB2MIVS\obj\Debug\LAB2MIVS.pdb
+C:\Users\Саня\Downloads\Гурин, 4 вариант\LAB2MIVS\LAB2MIVS\bin\Debug\LAB2MIVS.exe.config
+C:\Users\Саня\Downloads\Гурин, 4 вариант\LAB2MIVS\LAB2MIVS\bin\Debug\LAB2MIVS.exe
+C:\Users\Саня\Downloads\Гурин, 4 вариант\LAB2MIVS\LAB2MIVS\bin\Debug\LAB2MIVS.pdb
+C:\Users\Саня\Downloads\Гурин, 4 вариант\LAB2MIVS\LAB2MIVS\obj\Debug\LAB2MIVS.csprojResolveAssemblyReference.cache
+C:\Users\Саня\Downloads\Гурин, 4 вариант\LAB2MIVS\LAB2MIVS\obj\Debug\LAB2MIVS.Form1.resources
+C:\Users\Саня\Downloads\Гурин, 4 вариант\LAB2MIVS\LAB2MIVS\obj\Debug\LAB2MIVS.Properties.Resources.resources
+C:\Users\Саня\Downloads\Гурин, 4 вариант\LAB2MIVS\LAB2MIVS\obj\Debug\LAB2MIVS.csproj.GenerateResource.cache
+C:\Users\Саня\Downloads\Гурин, 4 вариант\LAB2MIVS\LAB2MIVS\obj\Debug\LAB2MIVS.csproj.CoreCompileInputs.cache
+C:\Users\Саня\Downloads\Гурин, 4 вариант\LAB2MIVS\LAB2MIVS\obj\Debug\LAB2MIVS.exe
+C:\Users\Саня\Downloads\Гурин, 4 вариант\LAB2MIVS\LAB2MIVS\obj\Debug\LAB2MIVS.pdb
+C:\Users\163ty\Desktop\LAB2MIVS\LAB2MIVS\bin\Debug\LAB2MIVS.exe.config
+C:\Users\163ty\Desktop\LAB2MIVS\LAB2MIVS\bin\Debug\LAB2MIVS.exe
+C:\Users\163ty\Desktop\LAB2MIVS\LAB2MIVS\bin\Debug\LAB2MIVS.pdb
+C:\Users\163ty\Desktop\LAB2MIVS\LAB2MIVS\obj\Debug\LAB2MIVS.csprojAssemblyReference.cache
+C:\Users\163ty\Desktop\LAB2MIVS\LAB2MIVS\obj\Debug\LAB2MIVS.Properties.Resources.resources
+C:\Users\163ty\Desktop\LAB2MIVS\LAB2MIVS\obj\Debug\LAB2MIVS.csproj.GenerateResource.cache
+C:\Users\163ty\Desktop\LAB2MIVS\LAB2MIVS\obj\Debug\LAB2MIVS.csproj.CoreCompileInputs.cache
+C:\Users\163ty\Desktop\LAB2MIVS\LAB2MIVS\obj\Debug\LAB2MIVS.exe
+C:\Users\163ty\Desktop\LAB2MIVS\LAB2MIVS\obj\Debug\LAB2MIVS.pdb
+C:\Users\163ty\Desktop\LAB2MIVS\LAB2MIVS\obj\Debug\Lab2.Form1.resources
